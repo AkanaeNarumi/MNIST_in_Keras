@@ -1,6 +1,6 @@
 # MNIST_in_Keras
 
---> Visualising the MNIST data in Keras <br>
+--> Visualizing the MNIST data in Keras <br>
 --> Building and Training a 3-layered Network <br>
 --> Testing the model <br>
 --> Building a Deep CNN <br>
